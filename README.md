@@ -7,12 +7,6 @@
 :x: **Disadvantages**: 
 stability, voice search and casting support **might** be worse than in the official apps, depending on your device; give it a try!
 
-Device support
-
-![:white_check_mark: supported: all devices that  Android TVs and TV boxes (incl. FireTV & NVIDIA Shield), even older ones with Android 4.3 (Kitkat). :x: not supported: Smartphones, non-Android plattforms like Samsung Tizen, LG webOS, iOS, etc.
-](images/new/upload_f6ab10668ea7793f099108f2b2230406.png)
-
-
 ## Installation
 
 > [video of the installation](images/new/zPV0imF.mp4) (note: download url changed to `kutt.it/stn_beta` or `kutt.it/stn_stable`)
