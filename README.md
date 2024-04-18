@@ -1,12 +1,10 @@
-# SmartTube (old name SmartTubeNext)
+# catube (aka betteryoutube)
   
-<img width="100" src="https://github.com/yuliskov/SmartTube/blob/master/smarttubetv/src/ststable/res/mipmap-nodpi/app_icon.png" alt="logo"/>
-
-**SmartTube** is an advanced player for **Android TVs** and **TV boxes**, free & open source. You can play content from different public sources.
+< catube is an advanced player for **Android TVs** and **TV boxes**, free & open source. You can play content from different public sources.
 
 :white_check_mark: **Features**: no ads ‧ SponsorBlock ‧ adjustable playback speed ‧ 8k support ‧ 60fps ‧ HDR ‧ read live chat ‧ customizable buttons ‧ no Google Services ‧ helpful international community
 
-:x: **Disadvantages**: no support for phones and tablets, no comments
+:x: **Disadvantages**: 
 stability, voice search and casting support **might** be worse than in the official apps, depending on your device; give it a try!
 
 **Do you have any question?** Ctrl+F or ⌘F this readme first!
@@ -24,7 +22,7 @@ stability, voice search and casting support **might** be worse than in the offic
 
 > [video of the installation](images/new/zPV0imF.mp4) (note: download url changed to `kutt.it/stn_beta` or `kutt.it/stn_stable`)
 
-**Do not** download SmartTube from any **app store**, APK websites or blogs; these were uploaded by other people and may contain malware or ads. SmartTube is not officially published on any app store. Sadly, the Google PlayStore does not allow ad-free Youtube apps using unofficial APIs.
+**Do not** download catube from any **app store**, APK websites or blogs; these were uploaded by other people and may contain malware or ads. SmartTube is not officially published on any app store. Sadly, the Google PlayStore does not allow ad-free Youtube apps using unofficial APIs.
 
 There is a **beta release** (recommended) and a **stable release**. Beta gets new features and bugfixes faster than the stable release.
 
