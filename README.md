@@ -7,14 +7,9 @@
 :x: **Disadvantages**: 
 stability, voice search and casting support **might** be worse than in the official apps, depending on your device; give it a try!
 
-**Do you have any question?** Ctrl+F or ⌘F this readme first!
+Device support
 
-[**Installation**](#installation) | [**Official Site**](https://smarttubeapp.github.io) | [**Donation**](#donation) | [**FAQ**](#faq) | [Support / Chat](#support) | [Build](#build) | [Translate the app](https://jtbrinkmann.de/tools/android-strings.xml-translator.html) | [Changelog](https://t.me/s/SmartTubeNewsEN) | [Liability](#liability)
-
-
-## Device support
-
-![:white_check_mark: supported: all Android TVs and TV boxes (incl. FireTV & NVIDIA Shield), even older ones with Android 4.3 (Kitkat). :x: not supported: Smartphones, non-Android plattforms like Samsung Tizen, LG webOS, iOS, etc.
+![:white_check_mark: supported: all devices that  Android TVs and TV boxes (incl. FireTV & NVIDIA Shield), even older ones with Android 4.3 (Kitkat). :x: not supported: Smartphones, non-Android plattforms like Samsung Tizen, LG webOS, iOS, etc.
 ](images/new/upload_f6ab10668ea7793f099108f2b2230406.png)
 
 
